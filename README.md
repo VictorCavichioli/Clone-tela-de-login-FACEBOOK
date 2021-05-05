@@ -5,7 +5,7 @@ Réplica da tela de login do Facebook utilizando HTML5, CSS3 e JAVASCRIPT.
 Fabebook para web
 
 <p align="center">
-  <img  src="![Clone Facebook mobile](https://user-images.githubusercontent.com/79488234/117222957-05b71c80-ade3-11eb-91bc-a1c0d5c59b6a.png)">
+  <img  src="https://user-images.githubusercontent.com/79488234/117222957-05b71c80-ade3-11eb-91bc-a1c0d5c59b6a.png">
 </p>
 
 A tela também é responsiva e serviria para mobile.
